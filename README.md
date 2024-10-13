@@ -11,9 +11,10 @@
 
 - 🌱 I’m currently learning **REST API ,Codeigniter4**
 
-- 👨‍💻 All of my projects are available at [http://44.202.232.220/](http://44.202.232.220/)
 
-- 📝 I regularly write articles on [http://44.202.232.220/blog](http://44.202.232.220/blog)
+- 👨‍💻 All of my projects are available at [https://krishnendudalui.in.net/gurudev/](https://krishnendudalui.in.net/gurudev/)
+
+- 📝 I regularly write articles on [https://krishnendudalui.in.net/gurudev/](https://krishnendudalui.in.net/gurudev/)
 
 - 💬 Ask me about **REST API ,Codeigniter**
 
